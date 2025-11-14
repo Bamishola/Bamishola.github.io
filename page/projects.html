@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Projets — Bamishola</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <style>
+    *{ margin:0; padding:0; box-sizing:border-box; }
+    :root{ --primary-color:#2563eb; --secondary-color:#1e40af; --white:#fff; --shadow:0 4px 6px rgba(0,0,0,0.1); }
+    body{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background:#f9fafb; color:#1f2937; }
+    .container{ max-width:1100px; margin:2rem auto; padding:1rem; }
+    .section-title{ text-align:center; color:var(--primary-color); font-size:2rem; margin-bottom:0.5rem; }
+    .section-subtitle{ text-align:center; color:#6b7280; margin-bottom:1.5rem; }
+    .projects-grid{ display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:1rem; }
+    .project-card{ background:#fff; border-radius:10px; box-shadow:var(--shadow); overflow:hidden; }
+    .project-header{ background:linear-gradient(135deg,var(--primary-color),var(--secondary-color)); color:var(--white); padding:1rem; text-align:center; }
+    .project-header i{ font-size:1.4rem; }
+    .project-body{ padding:1rem; }
+    .project-tags{ display:flex; gap:0.4rem; flex-wrap:wrap; }
+    .tag{ background:#f3f4f6; color:var(--primary-color); padding:0.3rem 0.6rem; border-radius:12px; font-size:0.85rem; }
+    .back{ text-align:center; margin-top:1rem; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2 class="section-title">Projets</h2>
+    <p class="section-subtitle">Mes réalisations techniques</p>
+    <div class="projects-grid">
+      <div class="project-card">
+        <div class="project-header">
+          <i class="fas fa-hand-paper"></i>
+          <h3>Smart Glove</h3>
+        </div>
+        <div class="project-body">
+          <p>Gant intelligent traduisant le langage des signes en parole en temps réel, facilitant la communication pour les personnes malentendantes.</p>
+          <div class="project-tags"><span class="tag">Python</span><span class="tag">Arduino</span><span class="tag">Deep Learning</span><span class="tag">IoT</span></div>
+        </div>
+      </div>
+
+      <div class="project-card">
+        <div class="project-header">
+          <i class="fas fa-heartbeat"></i>
+          <h3>ECG Classification</h3>
+        </div>
+        <div class="project-body">
+          <p>Pipeline de Machine Learning pour classifier des électrocardiogrammes et détecter des anomalies cardiaques.</p>
+          <div class="project-tags"><span class="tag">TensorFlow</span><span class="tag">Flask</span><span class="tag">Docker</span><span class="tag">CNN</span></div>
+        </div>
+      </div>
+
+      <div class="project-card">
+        <div class="project-header">
+          <i class="fas fa-shield-alt"></i>
+          <h3>Fraud Card Prediction</h3>
+        </div>
+        <div class="project-body">
+          <p>Système de détection de fraude bancaire utilisant des techniques avancées de Machine Learning et de réduction de dimension.</p>
+          <div class="project-tags"><span class="tag">Python</span><span class="tag">Scikit-learn</span><span class="tag">PCA</span><span class="tag">ML</span></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="back"><a href="../index.html">← Retour au Portfolio</a></div>
+  </div>
+</body>
+</html>

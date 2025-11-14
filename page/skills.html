@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Compétences — Bamishola</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <style>
+    *{ margin:0; padding:0; box-sizing:border-box; }
+    :root{ --primary-color:#2563eb; --text-light:#6b7280; --white:#fff; --shadow:0 4px 6px rgba(0,0,0,0.1);} 
+    body{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background:#f9fafb; color:#1f2937; }
+    .container{ max-width:1100px; margin:2rem auto; padding:1rem; }
+    .section-title{ text-align:center; color:var(--primary-color); font-size:2rem; margin-bottom:0.5rem; }
+    .section-subtitle{ text-align:center; color:var(--text-light); margin-bottom:1.5rem; }
+    .skills-grid{ display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:1rem; }
+    .skill-card{ background:#fff; padding:1rem; border-radius:10px; box-shadow:var(--shadow); }
+    .skill-card i{ font-size:1.8rem; color:var(--primary-color); margin-bottom:0.5rem; }
+    .skill-card h3{ color:var(--primary-color); margin-bottom:0.5rem; }
+    .skill-card ul{ list-style:none; padding-left:0; color:var(--text-light); }
+    .back{ text-align:center; margin-top:1rem; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2 class="section-title">Compétences Techniques</h2>
+    <p class="section-subtitle">Technologies et outils maîtrisés</p>
+    <div class="skills-grid">
+      <div class="skill-card">
+        <i class="fas fa-brain"></i>
+        <h3>Data & Machine Learning</h3>
+        <ul>
+          <li>Python (Pandas, NumPy, SciPy)</li>
+          <li>Keras, TensorFlow</li>
+          <li>Scikit-learn</li>
+          <li>Deep Learning (CNN, Bi-LSTM)</li>
+        </ul>
+      </div>
+      <div class="skill-card">
+        <i class="fas fa-code"></i>
+        <h3>Développement Web</h3>
+        <ul>
+          <li>JavaScript, React, Next.js</li>
+          <li>Node.js</li>
+          <li>Flask, FastAPI</li>
+          <li>HTML/CSS</li>
+        </ul>
+      </div>
+      <div class="skill-card">
+        <i class="fas fa-database"></i>
+        <h3>Bases de Données</h3>
+        <ul>
+          <li>PostgreSQL</li>
+          <li>MySQL</li>
+          <li>MongoDB</li>
+          <li>Firebase</li>
+          <li>SQL avancé</li>
+        </ul>
+      </div>
+      <div class="skill-card">
+        <i class="fas fa-tools"></i>
+        <h3>Outils & Systèmes</h3>
+        <ul>
+          <li>Git/GitHub</li>
+          <li>Docker</li>
+          <li>UML</li>
+          <li>Bubble.io</li>
+          <li>Asana</li>
+          <li>Linux, Windows</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="back"><a href="../index.html">← Retour au Portfolio</a></div>
+  </div>
+</body>
+</html>

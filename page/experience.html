@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Expériences — Bamishola</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <style>
+    *{ margin:0; padding:0; box-sizing:border-box; }
+    :root{ --primary-color:#2563eb; --accent-color:#fbbf24; --shadow:0 4px 6px rgba(0,0,0,0.1); }
+    body{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background:#f9fafb; color:#1f2937; }
+    .container{ max-width:900px; margin:2rem auto; padding:1rem; }
+    .section-title{ text-align:center; color:var(--primary-color); font-size:2rem; margin-bottom:0.5rem; }
+    .section-subtitle{ text-align:center; color:#6b7280; margin-bottom:1.5rem; }
+    .timeline{ position:relative; padding-left:1.2rem; }
+    .timeline::before{ content:''; position:absolute; left:0; top:0; bottom:0; width:3px; background:var(--primary-color); }
+    .timeline-item{ position:relative; margin-bottom:1.6rem; padding-left:1.2rem; }
+    .timeline-item::before{ content:''; position:absolute; left:-1.7rem; top:0; width:18px; height:18px; border-radius:50%; background:var(--accent-color); border:3px solid #fff; box-shadow:0 0 0 3px var(--primary-color); }
+    .timeline-item h3{ color:var(--primary-color); margin-bottom:0.3rem; }
+    .timeline-item .date{ color:var(--accent-color); font-weight:600; display:block; margin-bottom:0.5rem; }
+    .timeline-item p{ color:#6b7280; }
+    .back{ text-align:center; margin-top:1rem; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2 class="section-title">Expériences Professionnelles</h2>
+    <p class="section-subtitle">Mon parcours professionnel</p>
+    <div class="timeline">
+      <div class="timeline-item">
+        <h3>Développeur No-Code - NowCode IT</h3>
+        <span class="date"><i class="fas fa-calendar"></i> 2025</span>
+        <p>• Développement d'applications no-code avec Bubble.io<br>• Intégration d'API et automatisation des workflows<br>• Utilisation de GPT-4 pour optimiser les processus<br>• Création de solutions innovantes pour divers clients</p>
+      </div>
+      <div class="timeline-item">
+        <h3>Consultant - Choubel Consulting</h3>
+        <span class="date"><i class="fas fa-calendar"></i> 2024</span>
+        <p>• Création de business plans stratégiques<br>• Développement web full-stack (React.js, Node.js)<br>• Conseil en transformation digitale<br>• Analyse de marchés et études de faisabilité</p>
+      </div>
+    </div>
+
+    <div class="back"><a href="../index.html">← Retour au Portfolio</a></div>
+  </div>
+</body>
+</html>

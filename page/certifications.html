@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Certifications — Bamishola</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <style>
+    *{ margin:0; padding:0; box-sizing:border-box; }
+    :root{ --primary-color:#2563eb; --shadow:0 4px 6px rgba(0,0,0,0.1); }
+    body{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background:#f9fafb; color:#1f2937; }
+    .container{ max-width:1000px; margin:2rem auto; padding:1rem; }
+    .section-title{ text-align:center; color:var(--primary-color); font-size:2rem; margin-bottom:0.5rem; }
+    .section-subtitle{ text-align:center; color:#6b7280; margin-bottom:1.5rem; }
+    .certifications-grid{ display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:1rem; }
+    .cert-card{ background:#fff; padding:1rem; border-radius:10px; box-shadow:var(--shadow); text-align:center; border-top:4px solid var(--primary-color); }
+    .cert-card i{ font-size:1.2rem; color:var(--primary-color); margin-bottom:0.4rem; }
+    .cert-card h3{ font-size:1rem; margin-bottom:0.4rem; }
+    .cert-status{ display:inline-block; padding:0.3rem 0.8rem; border-radius:15px; font-weight:600; font-size:0.85rem; margin-top:0.4rem; }
+    .cert-status.completed{ background:#d1fae5; color:#065f46; }
+    .cert-status.in-progress{ background:#fef3c7; color:#92400e; }
+    .back{ text-align:center; margin-top:1rem; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2 class="section-title">Certifications</h2>
+    <p class="section-subtitle">Formation continue et expertise</p>
+    <div class="certifications-grid">
+      <div class="cert-card">
+        <i class="fas fa-certificate"></i>
+        <h3>IBM Machine Learning Professional Certificate</h3>
+        <span class="cert-status completed">Complété</span>
+      </div>
+      <div class="cert-card">
+        <i class="fas fa-certificate"></i>
+        <h3>Google Project Management Certificate</h3>
+        <span class="cert-status completed">Complété</span>
+      </div>
+      <div class="cert-card">
+        <i class="fas fa-certificate"></i>
+        <h3>IBM Data Science Professional Certificate</h3>
+        <span class="cert-status in-progress">En cours</span>
+      </div>
+      <div class="cert-card">
+        <i class="fas fa-certificate"></i>
+        <h3>IBM AI Engineering Professional Certificate</h3>
+        <span class="cert-status in-progress">En cours</span>
+      </div>
+    </div>
+
+    <div class="back"><a href="../index.html">← Retour au Portfolio</a></div>
+  </div>
+</body>
+</html>
