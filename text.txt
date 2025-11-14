@@ -1,0 +1,265 @@
+PARCOURS ACADÉMIQUE – VERSION ORGANISÉE ET PROFESSIONNELLE
+🎓 2019 — Baccalauréat
+
+Série scientifique (Maths – Physique)
+Obtenu en 2019.
+
+🎓 2019–2021 — Classes Préparatoires Scientifiques (IMSP – Dangbo, Bénin)
+
+Filière : Mathématiques, Physique et Informatique
+
+1re année (S1–S2)
+
+Logique & théorie des ensembles
+
+Mécanique du point
+
+Structures algébriques
+
+Analyse 1 (fonctions d’une variable réelle)
+
+Informatique
+
+Électrocinétique
+
+Sciences industrielles de l’ingénieur
+
+S2 :
+
+Électromagnétisme & optique géométrique
+
+Probabilité 1
+
+Langage C
+
+Chimie
+
+Algèbre linéaire
+
+Analyse 2
+
+Français–Philosophie
+
+Sciences industrielles de l’ingénieur
+
+2e année (S3–S4)
+
+S3 :
+
+Algèbre multilinéaire
+
+Analyse à plusieurs variables
+
+Relativité restreinte
+
+Langage C
+
+Électromagnétisme & mécanique quantique
+
+Suites & séries de fonctions
+
+Français–Philosophie
+
+Sciences industrielles de l’ingénieur
+
+S4 :
+
+Structures de données avancées
+
+Mécanique du solide
+
+Thermodynamique & optique physique
+
+Géométrie affine
+
+Intégrales généralisées
+
+Probabilité 2
+
+Anglais
+
+Sciences industrielles de l’ingénieur
+
+🎓 2021–2022 — Licence Informatique
+Semestre 5
+
+Électromagnétisme
+
+Calcul matriciel
+
+Analyse multivariée
+
+Logique & théorie des ensembles
+
+Langage C
+
+Bases de données relationnelles
+
+Réseaux & télécommunications
+
+Systèmes d’exploitation
+
+Anglais
+
+Semestre 6
+
+Structures de données avancées (C)
+
+UML
+
+Programmation Python
+
+Programmation orientée objet (Java)
+
+Développement web (HTML/CSS/JS/PHP)
+
+Réseaux & Télécoms
+
+Systèmes d’exploitation
+
+👉 Admission au concours Afrique — École Centrale Casablanca (ECC)
+Entrée dans le cycle ingénieur généraliste, école accréditée CTI et membre du réseau Centrale.
+
+🎓 2022–2025 — Cycle Ingénieur Généraliste (École Centrale Casablanca)
+1re année – Tronc commun
+S5
+
+Maths : Analyse, Probabilités, Statistiques
+
+Informatique : POO, modélisation, traitement du signal
+
+Physique : Physique quantique 1, interaction rayonnement-matière
+
+Mécanique : Milieux continus, solides élastiques, mécanique des fluides
+
+Entreprise : Génie industriel, gestion de projets
+
+SHS : Sociologie, philosophie des sciences
+
+Langues : Français, Anglais
+
+Projet : Prototypage rapide et fabrication numérique
+
+S6
+
+Maths : Optimisation, méthodes numériques, systèmes dynamiques
+
+Informatique : Coding Week (détection de fraude), modèles linéaires
+
+Physique : Quantique 2, physique du solide
+
+Mécanique : Transferts thermiques, vibrations, calcul de structures
+
+Entreprise : Gestion, théorie des graphes
+
+SHS : Droit, économie
+
+Projets transverses :
+
+Expérimentation : Interféromètre de Michelson
+
+Projet LBD : Gant de traduction en temps réel (LSF → texte/parole et inversement)
+
+2e année – Enseignements avancés & spécialisation
+Semestre 7
+
+MIDAS :
+
+Techniques de développement logiciel
+
+Introduction à l’IA
+
+EDP & méthodes numériques
+
+Recherche opérationnelle
+
+Modélisation & aide à la décision :
+
+Optimisation combinatoire
+
+Optimisation stochastique
+
+Théorie des graphes
+
+Qualité & fiabilité
+
+Modélisation markovienne & files d’attente
+
+Autres domaines :
+
+Développement durable & sociologie des organisations
+
+Réseaux télécoms
+
+Marketing
+
+Introduction à la cybersécurité
+
+Projets transverses :
+
+Projet scientifique
+
+Projet d’innovation
+
+Stage opérateur :
+Développement d’une plateforme web pour la mise en relation investisseurs–porteurs de projets + business plan pour école d’aviation au Bénin.
+
+Semestre 8
+
+Modélisation numérique de systèmes complexes
+
+Architecture & modélisation pour systèmes complexes
+
+Modélisation multi-agents
+
+Dynamique des populations / moléculaire
+
+Gestion logistique & gaspillage alimentaire
+
+Théorie de l’information & IA pour systèmes complexes
+
+Projet à enjeux
+
+Mission Assistant Ingénieur (stage technique)
+
+🎓 2025 — Année d’échange à l’École Centrale Lyon
+3ᵉ année – Parcours Informatique : Big Data / IA / Systèmes d’Information
+UE Métier
+
+MOM : Management de l’entreprise industrielle, intelligence économique
+
+Modules spécifiques métiers : Ingénieur intrapreneur
+
+UE Secteur — Option Informatique (MSO)
+
+Parcours Big Data & Systèmes d’Information :
+
+Technologies du Big Data
+
+IoT & systèmes concurrents
+
+Machine Learning
+
+Apprentissage bayésien & exploration de textes
+
+Projet d’option
+
+UE MOD (Modules disciplinaires)
+
+Défis informatiques du Big Data
+
+Apprentissage profond (Deep Learning)
+
+Introduction à la Data Science
+
+Réseaux informatiques
+
+Cybersécurité
+
+Ouverture socio-économique
+
+Langues
+
+Anglais avancé
+
+S10 – Stage de fin d’études (PFE / TFE)
